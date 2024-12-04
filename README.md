@@ -22,7 +22,7 @@ Proficient in Python, SQL, Tableau, and machine learning models, I bring a stron
 - **Workflow Automation**: Apache Airflow, Streamlit and Docker.
 
 ## Connect With Me
-- 💼 [LinkedIn Profile](http://www.linkedin.com/in/m-nuzul/)
-- 📫 Email: [mnuzul973@gmail.com]
+- Linkedin: [Profile](http://www.linkedin.com/in/m-nuzul/)
+- Email: [mnuzul973@gmail.com]
 
 You're welcome to explore my work and connect for collaborations, innovative ideas, or discussions about anything data-related!
